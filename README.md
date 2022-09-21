@@ -1,1 +1,0 @@
-# backend-capstone-template
